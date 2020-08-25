@@ -49,12 +49,7 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Staten Island</a>
-                                        </li>
-                                        <li>
-                                            <a href="#">Another Location</a>
-                                        </li>
+                                        
                                     </ul>
                                 </li>
                             </ul>

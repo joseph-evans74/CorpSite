@@ -50,7 +50,7 @@
                                             <a href="#">Secret Mountain</a>
                                         </li>
                                         <li>
-                                            <a href="#">Staten Island</a>
+                                            <a href="#">Globex Headquarters</a>
                                         </li>
                                         
                                     </ul>

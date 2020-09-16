@@ -52,9 +52,6 @@
                                         <li>
                                             <a href="#">Teaneck</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Staten Island</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>

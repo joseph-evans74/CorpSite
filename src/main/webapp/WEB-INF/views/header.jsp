@@ -49,9 +49,6 @@
                                         <li>
                                             <a href="#">Secret Mountain</a>
                                         </li>
-                                        <li>
-                                            <a href="#">Teaneck</a>
-                                        </li>
                                     </ul>
                                 </li>
                             </ul>
